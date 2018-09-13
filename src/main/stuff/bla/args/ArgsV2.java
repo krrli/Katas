@@ -7,7 +7,6 @@ public class ArgsV2 {
 
     private final String[] argsPattern;
     private final String[] realArgs;
-    private final List<Character> allowedArgs = Arrays.asList('l', 'p', 'd');
 
 
     public ArgsV2(String argsPattern, String[] realArgs){
@@ -31,8 +30,14 @@ public class ArgsV2 {
     }
 
     public String[] getStringList(char argName){
-        this.validateArgSchema(argName, "*[]");
+        this.validateArgSchema(argName, "*");
         return findStringListArg(argName);
+    }
+
+    public int[] getIntList(char argName){
+        this.validateArgSchema(argName, "#");
+        String[] resAsStringArray = this.findStringListArg(argName);
+        return findIntListArg(resAsStringArray);
     }
 
     private boolean findBooleanArg(char argName) {
@@ -79,6 +84,15 @@ public class ArgsV2 {
         return resArray;
     }
 
+    private int[] findIntListArg(String[] stringArray) {
+
+        int[] resAsIntArray = new int[stringArray.length];
+
+        for(int i= 0; i<stringArray.length; i++){
+            resAsIntArray[i] = Integer.parseInt(stringArray[i]);
+        }
+        return resAsIntArray;
+    }
 
 
     private void validateArgSchema(char argName, String argType){
@@ -86,6 +100,6 @@ public class ArgsV2 {
             if(argPattern.equals(argName + argType)) return;
         }
 
-        throw new IllegalArgumentException("Schema is not valid!");
+        throw new IllegalArgumentException("Schema is not valid: " + argName + " " + argType);
     }
 }

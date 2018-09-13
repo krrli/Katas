@@ -87,6 +87,23 @@ class ArgsV2Test {
     }
 
     @Test
+    public void testAnotherArgumentsComposition(){
+        String expectedDir = "/usr/logs";
+        int expectedPort = 8080;
+        ArgsV2 args = new ArgsV2("l,d*,p#,i#", new String[]{"-l", "-p", expectedPort+"", "-d", expectedDir, "-i", "2,7000"});
+
+        boolean logFlag = args.getBoolean('l');
+        String dir = args.getString('d');
+        int port = args.getInt('p');
+        int[] intList = args.getIntList('i');
+
+        Assert.assertEquals(true, logFlag);
+        Assert.assertEquals(expectedDir, dir);
+        Assert.assertEquals(expectedPort, port);
+        Assert.assertEquals(2, intList.length);
+    }
+
+    @Test
     public void testNegativeInteger(){
         ArgsV2 args = new ArgsV2("p#", new String[]{"-p", "-5"});
         int portNumber = args.getInt('p');
@@ -96,7 +113,7 @@ class ArgsV2Test {
 
     @Test
     void testStringListAsArg() {
-        ArgsV2 args = new ArgsV2("g*[]", new String[]{"-g", "this,is,a,list"});
+        ArgsV2 args = new ArgsV2("g*", new String[]{"-g", "this,is,a,list"});
         String[] resList = args.getStringList('g');
         Assert.assertEquals(4,resList.length);
         Assert.assertEquals("this", resList[0]);
@@ -105,5 +122,15 @@ class ArgsV2Test {
         Assert.assertEquals("list", resList[3]);
     }
 
+    @Test
+    void testIntListAsArg() {
+        ArgsV2 args = new ArgsV2("i#", new String[]{"-i", "1,2,-3,5"});
+        int[] resList = args.getIntList('i');
+        Assert.assertEquals(4,resList.length);
+        Assert.assertEquals(1, resList[0]);
+        Assert.assertEquals(2, resList[1]);
+        Assert.assertEquals(-3, resList[2]);
+        Assert.assertEquals(5, resList[3]);
+    }
 
 }
