@@ -10,7 +10,9 @@ public class Main {
 	    System.out.println("ello dis is kata");
         //fizzBuzz();
         //fizzBuzzV2();
-        parseArguments(args);
+        //parseArguments(args);
+        System.out.println(args.length);
+        System.out.println(args[2]);
     }
 
     private static void fizzBuzz(){

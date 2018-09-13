@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c8dbf4e-2578-4304-9b0c-fd8f9f6225fe" name="Default Changelist" comment="" />
+    <list default="true" id="8c8dbf4e-2578-4304-9b0c-fd8f9f6225fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Katas/main/stuff/bla/args/ArgsV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Katas/main/stuff/bla/args/ArgsV2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Katas/test/stuff/bla/args/ArgsV2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Katas/test/stuff/bla/args/ArgsV2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/stuff/bla/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/stuff/bla/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,23 +20,24 @@
     <session id="-450563790">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="java" value="7255" />
+          <entry key="java" value="8299" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7255" />
+          <entry key="JAVA" value="8299" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -48,14 +56,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.44376436">
+    <splitter split-orientation="horizontal" split-proportion="0.46250927">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -66,8 +74,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/Args.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="55" column="62" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="62" />
+                <state relative-caret-position="391">
+                  <caret line="24" column="70" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="70" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -78,8 +86,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="788">
-                  <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+                <state relative-caret-position="434">
+                  <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -91,8 +102,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="791">
-                  <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+                <state relative-caret-position="549">
+                  <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -112,8 +123,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+                <state relative-caret-position="1207">
+                  <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -153,6 +164,9 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -166,15 +180,15 @@
         <option value="$PROJECT_DIR$/src/test/stuff.bla/fizzBuzz/FizzBuzzV2Test.java" />
         <option value="$PROJECT_DIR$/src/test/ArgsTest.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/fizzBuzz/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/main/stuff/bla/Main.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/Flag.java" />
         <option value="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/Args.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/Arguments.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/Flags.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2Test.java" />
-        <option value="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/Main.java" />
         <option value="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" />
       </list>
     </option>
   </component>
@@ -190,11 +204,15 @@
     <option name="width" value="1616" />
     <option name="height" value="1176" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -253,7 +271,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +279,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536654274103" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536826299570" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -297,7 +314,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArgsV2Test.testNegativeInteger">
+  <component name="RunManager" selected="JUnit.ArgsV2Test.testStringListAsArg">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.stuff.bla.Main" />
+      <module name="Katas" />
+      <option name="PROGRAM_PARAMETERS" value="-l -g this,is,a,list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.stuff.bla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArgsV2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <extension name="coverage">
@@ -312,7 +343,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArgsV2Test.testArgumentsComposition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArgsV2Test.testDirectoryWithoutValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <extension name="coverage">
         <pattern>
@@ -322,39 +353,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
       <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
-      <option name="METHOD_NAME" value="testArgumentsComposition" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArgsV2Test.testBooleanFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Katas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.stuff.bla.args.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
-      <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
-      <option name="METHOD_NAME" value="testBooleanFalse" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArgsV2Test.testFindPortSplitted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Katas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.stuff.bla.args.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
-      <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
-      <option name="METHOD_NAME" value="testFindPortSplitted" />
+      <option name="METHOD_NAME" value="testDirectoryWithoutValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -376,20 +375,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArgsV2Test.testStringListAsArg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Katas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.stuff.bla.args.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
+      <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
+      <option name="METHOD_NAME" value="testStringListAsArg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ArgsV2Test" />
-      <item itemvalue="JUnit.ArgsV2Test.testArgumentsComposition" />
-      <item itemvalue="JUnit.ArgsV2Test.testBooleanFalse" />
-      <item itemvalue="JUnit.ArgsV2Test.testFindPortSplitted" />
       <item itemvalue="JUnit.ArgsV2Test.testNegativeInteger" />
+      <item itemvalue="JUnit.ArgsV2Test.testDirectoryWithoutValue" />
+      <item itemvalue="JUnit.ArgsV2Test.testStringListAsArg" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArgsV2Test.testNegativeInteger" />
-        <item itemvalue="JUnit.ArgsV2Test.testFindPortSplitted" />
-        <item itemvalue="JUnit.ArgsV2Test.testBooleanFalse" />
+        <item itemvalue="JUnit.ArgsV2Test.testStringListAsArg" />
         <item itemvalue="JUnit.ArgsV2Test" />
-        <item itemvalue="JUnit.ArgsV2Test.testArgumentsComposition" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ArgsV2Test.testDirectoryWithoutValue" />
+        <item itemvalue="JUnit.ArgsV2Test.testNegativeInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -407,48 +422,51 @@
       <workItem from="1536562615586" duration="19304000" />
       <workItem from="1536595490914" duration="3000" />
       <workItem from="1536647346314" duration="5304000" />
+      <workItem from="1536654424018" duration="5237000" />
+      <workItem from="1536821886612" duration="3453000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArgsV2Test_testPortAsString - 2018.09.11 at 10h 11m 17s.xml">
-      <configuration name="ArgsV2Test.testPortAsString" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 09h 37m 01s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testPortAsString - 2018.09.11 at 10h 11m 38s.xml">
-      <configuration name="ArgsV2Test.testPortAsString" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 09h 37m 12s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testComposition - 2018.09.11 at 10h 17m 06s.xml">
-      <configuration name="ArgsV2Test.testComposition" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 09h 37m 40s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testComposition - 2018.09.11 at 10h 18m 10s.xml">
-      <configuration name="ArgsV2Test.testComposition" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 09h 42m 01s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testArgumentsComposition - 2018.09.11 at 10h 18m 27s.xml">
-      <configuration name="ArgsV2Test.testArgumentsComposition" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 09h 42m 30s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test - 2018.09.11 at 10h 18m 32s.xml">
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 10h 08m 48s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArgsV2Test - 2018.09.13 at 10h 09m 17s.xml">
       <configuration name="ArgsV2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testBooleanFalse - 2018.09.11 at 10h 20m 06s.xml">
-      <configuration name="ArgsV2Test.testBooleanFalse" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 10h 09m 50s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testFindPortSplitted - 2018.09.11 at 10h 21m 10s.xml">
-      <configuration name="ArgsV2Test.testFindPortSplitted" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 10h 10m 35s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testNegativeInteger - 2018.09.11 at 10h 21m 31s.xml">
-      <configuration name="ArgsV2Test.testNegativeInteger" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArgsV2Test_testNegativeInteger - 2018.09.11 at 10h 23m 22s.xml">
-      <configuration name="ArgsV2Test.testNegativeInteger" configurationId="JUnit" />
+    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 10h 11m 00s.xml">
+      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30074000" />
+    <option name="totallyTimeSpent" value="38764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1600257" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13431877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +475,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3662512" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3135187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39980826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,6 +523,12 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -528,10 +552,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/fizzBuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/Flags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="115" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/Args.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="70" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/stuff.bla/fizzBuzz/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -545,61 +603,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/fizzBuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/Flags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="115" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/Args.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="55" column="62" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="788">
-          <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+        <state relative-caret-position="549">
+          <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

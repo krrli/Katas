@@ -66,7 +66,8 @@ class ArgsV2Test {
     @Test
     public void testDirectoryWithoutValue(){
         ArgsV2 args = new ArgsV2("d*", new String[]{"-l", "-d"});
-        Assertions.assertThrows(IllegalArgumentException.class, ()->args.getString('d'));
+        IllegalArgumentException exception = assertThrows(IllegalArgumentException.class, ()->args.getString('d'));
+        Assert.assertEquals("There's no value for arg d", exception.getMessage());
     }
 
     @Test
@@ -91,5 +92,18 @@ class ArgsV2Test {
         int portNumber = args.getInt('p');
         Assert.assertEquals(-5, portNumber);
     }
+
+
+    @Test
+    void testStringListAsArg() {
+        ArgsV2 args = new ArgsV2("g*[]", new String[]{"-g", "this,is,a,list"});
+        String[] resList = args.getStringList('g');
+        Assert.assertEquals(4,resList.length);
+        Assert.assertEquals("this", resList[0]);
+        Assert.assertEquals("is", resList[1]);
+        Assert.assertEquals("a", resList[2]);
+        Assert.assertEquals("list", resList[3]);
+    }
+
 
 }
