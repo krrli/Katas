@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8c8dbf4e-2578-4304-9b0c-fd8f9f6225fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Katas/main/stuff/bla/args/ArgsV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Katas/main/stuff/bla/args/ArgsV2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,49 +17,54 @@
     <session id="-450563790">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="15" />
-          <entry key="java" value="8738" />
+          <entry key="dummy" value="22" />
+          <entry key="java" value="11561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8738" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="11561" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="21" />
+          <entry key="csv" value="1" />
+          <entry key="java" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="38" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3444692">
+    <splitter split-orientation="horizontal" split-proportion="0.53627527">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
+                <state relative-caret-position="204">
                   <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -80,14 +85,35 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="86" column="56" lean-forward="true" selection-start-line="86" selection-start-column="56" selection-end-line="86" selection-end-column="56" />
+                <state relative-caret-position="833">
+                  <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/StringLengthComparator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
@@ -97,10 +123,39 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/phoneNumbers/PhoneBookTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="291">
+                  <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbersGithub/PhoneBookEntriesHelper.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1360">
+                  <caret line="122" column="58" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="122" selection-end-column="58" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/phonenumbers.csv">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
+                <state relative-caret-position="527">
+                  <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
@@ -117,27 +172,6 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1207">
-                  <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/stuff.bla/fizzBuzz/FizzBuzzV2Test.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="918">
-                  <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-second>
     </splitter>
@@ -146,8 +180,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -184,8 +218,18 @@
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/Flags.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2Test.java" />
         <option value="$PROJECT_DIR$/src/main/stuff/bla/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" />
         <option value="$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/phoneNumbers/PhoneNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneBookEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneBookEntriesHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbersGithub/PhoneBookEntriesHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/StringLengthComparator.java" />
+        <option value="$PROJECT_DIR$/src/test/phoneNumbers/PhoneBookTest.java" />
+        <option value="$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneList.java" />
       </list>
     </option>
   </component>
@@ -209,9 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +263,11 @@
             <path>
               <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,14 +281,14 @@
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bla" type="462c0819:PsiDirectoryNode" />
-              <item name="args" type="462c0819:PsiDirectoryNode" />
+              <item name="phoneNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bla" type="462c0819:PsiDirectoryNode" />
-              <item name="fizzBuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="phoneNumbersGithub" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
@@ -255,19 +301,15 @@
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="args" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Katas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="fizzBuzz" type="462c0819:PsiDirectoryNode" />
+              <item name="phoneNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +318,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536827512250" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537277569915" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -285,6 +327,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.stuff.bla.phoneNumbers" />
       <recent name="main.stuff.bla.args" />
       <recent name="test" />
       <recent name="main.stuff.bla.fizzBuzz" />
@@ -311,14 +354,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArgsV2Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.stuff.bla.Main" />
+  <component name="RunManager" selected="JUnit.PhoneBookTest.testIf200NumbersAreConsistent">
+    <configuration name="PhoneList_Github" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.stuff.bla.phoneNumbersGithub.PhoneList_Github" />
       <module name="Katas" />
-      <option name="PROGRAM_PARAMETERS" value="-l -g this,is,a,list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.stuff.bla.*" />
+          <option name="PATTERN" value="main.stuff.bla.phoneNumbersGithub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,68 +382,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArgsV2Test.testAnotherArgumentsComposition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.stuff.bla.args.*" />
+          <option name="PATTERN" value="test.phoneNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
-      <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
-      <option name="METHOD_NAME" value="testAnotherArgumentsComposition" />
+      <option name="PACKAGE_NAME" value="test.phoneNumbers" />
+      <option name="MAIN_CLASS_NAME" value="test.phoneNumbers.PhoneBookTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.testIf200NumbersAreConsistent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Katas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.phoneNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.phoneNumbers" />
+      <option name="MAIN_CLASS_NAME" value="test.phoneNumbers.PhoneBookTest" />
+      <option name="METHOD_NAME" value="testIf200NumbersAreConsistent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArgsV2Test.testIntListAsArg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBookTest.testIfNumbersAreConsistent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Katas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.stuff.bla.args.*" />
+          <option name="PATTERN" value="test.phoneNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
-      <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
-      <option name="METHOD_NAME" value="testIntListAsArg" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArgsV2Test.testStringListAsArg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Katas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.stuff.bla.args.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.stuff.bla.args" />
-      <option name="MAIN_CLASS_NAME" value="test.stuff.bla.args.ArgsV2Test" />
-      <option name="METHOD_NAME" value="testStringListAsArg" />
+      <option name="PACKAGE_NAME" value="test.phoneNumbers" />
+      <option name="MAIN_CLASS_NAME" value="test.phoneNumbers.PhoneBookTest" />
+      <option name="METHOD_NAME" value="testIfNumbersAreConsistent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ArgsV2Test" />
-      <item itemvalue="JUnit.ArgsV2Test.testStringListAsArg" />
-      <item itemvalue="JUnit.ArgsV2Test.testIntListAsArg" />
-      <item itemvalue="JUnit.ArgsV2Test.testAnotherArgumentsComposition" />
+      <item itemvalue="Application.PhoneList_Github" />
+      <item itemvalue="JUnit.PhoneBookTest.testIfNumbersAreConsistent" />
+      <item itemvalue="JUnit.PhoneBookTest" />
+      <item itemvalue="JUnit.PhoneBookTest.testIf200NumbersAreConsistent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhoneBookTest.testIf200NumbersAreConsistent" />
+        <item itemvalue="JUnit.PhoneBookTest.testIfNumbersAreConsistent" />
+        <item itemvalue="JUnit.PhoneBookTest" />
+        <item itemvalue="Application.PhoneList_Github" />
         <item itemvalue="JUnit.ArgsV2Test" />
-        <item itemvalue="JUnit.ArgsV2Test.testAnotherArgumentsComposition" />
-        <item itemvalue="JUnit.ArgsV2Test.testIntListAsArg" />
-        <item itemvalue="JUnit.ArgsV2Test.testStringListAsArg" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -420,50 +460,53 @@
       <workItem from="1536595490914" duration="3000" />
       <workItem from="1536647346314" duration="5304000" />
       <workItem from="1536654424018" duration="5237000" />
-      <workItem from="1536821886612" duration="4644000" />
+      <workItem from="1536821886612" duration="6161000" />
+      <workItem from="1536829034023" duration="8231000" />
+      <workItem from="1536909286899" duration="540000" />
+      <workItem from="1536914813317" duration="4386000" />
+      <workItem from="1537269101453" duration="7779000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 10h 23m 49s.xml">
-      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest - 2018.09.18 at 15h 18m 52s.xml">
+      <configuration name="PhoneBookTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 24m 07s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest - 2018.09.18 at 15h 19m 12s.xml">
+      <configuration name="PhoneBookTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 24m 30s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIfNumbersAreConsistent - 2018.09.18 at 15h 22m 42s.xml">
+      <configuration name="PhoneBookTest.testIfNumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testStringListAsArg - 2018.09.13 at 10h 24m 45s.xml">
-      <configuration name="ArgsV2Test.testStringListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest - 2018.09.18 at 15h 25m 05s.xml">
+      <configuration name="PhoneBookTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 25m 33s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIfNumbersAreConsistent - 2018.09.18 at 15h 25m 13s.xml">
+      <configuration name="PhoneBookTest.testIfNumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 25m 56s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIfNumbersAreConsistent - 2018.09.18 at 15h 27m 58s.xml">
+      <configuration name="PhoneBookTest.testIfNumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 26m 41s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIfNumbersAreConsistent - 2018.09.18 at 15h 29m 20s.xml">
+      <configuration name="PhoneBookTest.testIfNumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 29m 03s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIf200NumbersAreConsistent - 2018.09.18 at 15h 29m 49s.xml">
+      <configuration name="PhoneBookTest.testIf200NumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testIntListAsArg - 2018.09.13 at 10h 29m 49s.xml">
-      <configuration name="ArgsV2Test.testIntListAsArg" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIfNumbersAreConsistent - 2018.09.18 at 15h 30m 47s.xml">
+      <configuration name="PhoneBookTest.testIfNumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArgsV2Test_testAnotherArgumentsComposition - 2018.09.13 at 10h 31m 26s.xml">
-      <configuration name="ArgsV2Test.testAnotherArgumentsComposition" configurationId="JUnit" />
+    <history-entry file="PhoneBookTest_testIf200NumbersAreConsistent - 2018.09.18 at 15h 30m 50s.xml">
+      <configuration name="PhoneBookTest.testIf200NumbersAreConsistent" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39955000" />
+    <option name="totallyTimeSpent" value="62408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13431877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1407455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -472,8 +515,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3135187" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980826" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3135187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5043145" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -528,7 +571,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java</url>
-          <line>87</line>
+          <line>86</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
@@ -562,6 +605,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0/junit-platform-commons-1.3.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="61" column="133" selection-start-line="61" selection-start-column="133" selection-end-line="61" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneBook.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneBookEntry.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/stuff.bla/fizzBuzz/FizzBuzzV2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="958">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/Args.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -569,6 +648,26 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/phonenumbers.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -582,54 +681,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/StringLengthComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbersGithub/PhoneBookEntriesHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="122" column="58" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="122" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stuff.bla/fizzBuzz/FizzBuzzV2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbers/PhoneList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="391">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0/junit-platform-commons-1.3.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/phoneNumbersGithub/PhoneList_Github.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="61" column="133" selection-start-line="61" selection-start-column="133" selection-end-line="61" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/stuff/bla/args/ArgsV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="86" column="56" lean-forward="true" selection-start-line="86" selection-start-column="56" selection-end-line="86" selection-end-column="56" />
+        <state relative-caret-position="-68">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stuff/bla/args/ArgsV2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/phoneNumbers/PhoneBookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
+        <state relative-caret-position="291">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

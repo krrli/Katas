@@ -85,7 +85,6 @@ public class ArgsV2 {
     }
 
     private int[] findIntListArg(String[] stringArray) {
-
         int[] resAsIntArray = new int[stringArray.length];
 
         for(int i= 0; i<stringArray.length; i++){
